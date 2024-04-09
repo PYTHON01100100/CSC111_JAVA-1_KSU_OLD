@@ -10,3 +10,7 @@
 # F20_CSC111_Labs : https://youtube.com/playlist?list=PLpoeG8d3dx95J8VeIwPAguH-sK54ZFkQa&feature=shared
 #  Caleb Curry : https://youtu.be/r3GGV2TG_vw?list=PL_c9BZzLwBRKIMP_xNTJxi9lIgQhE51rF
 # Maad Coding : https://youtube.com/playlist?list=PLF7pjAYSxOFsH79nD_vCSrtSwkGoi3xe4&si=ZlAl56Aoh1-RsTCN
+# Java Full Course for free ☕ : https://youtu.be/xk4_1vDrzzo
+# Java Programming for Beginners – Full Course : https://youtu.be/A74TOX803D0
+# firas : https://youtube.com/playlist?list=PLYq_MUtKXWyTozmI6GjEkKGjPq4glgIkd&si=pyF6uKo54ViMTGag
+# TheNewBaghdad  : https://youtube.com/playlist?list=PLF8OvnCBlEY1lalnvdYmz4O_x7wII8NiI&feature=shared
